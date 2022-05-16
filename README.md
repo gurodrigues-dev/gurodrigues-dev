@@ -1,7 +1,7 @@
 ### Hi, I'm Gustavo Rodrigues 👋
 
 - 👨‍💻 I’m currently working on GoCache, a technology startup! 
-- ✍🏻 I'm currently specializing in flutter and go lang
+- ✍🏻 I'm currently specializing in flutter, ṕython and go
 
 <div align="center">
   <a href="https://github.com/gustavorodrigueess">
