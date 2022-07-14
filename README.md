@@ -1,5 +1,12 @@
-### Hi, I'm Gustavo Rodrigues 👋
-  > Young brazilian developer who dreams of being the best devops engineer.
+<h1 align="center">
+  Hello I'm Gustavo Rodrigues!
+</h1>
+
+<p align="center">   
+  <a href="mailto:gustavorodrigueslima2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00B9EC"></a>
+  <a href="https://www.linkedin.com/in/gustavo-rodrigues-86289a210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00B9EC"></a> 
+  <a href="https://www.instagram.com/offrodriguezzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00B9EC"></a>
+</p>
   
 
 - 👨‍💻 I’m currently working on GoCache, a technology startup! 
@@ -16,17 +23,24 @@
  <br>
  
 
-<div>
-  <a href="https://github.com/GustavoRodrigueess">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoRodrigueess&count_private=true&show_icons=true&theme=gruvbox"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRodrigueess&layout=compact&theme=gruvbox"/>
-  </a>
-</div>
+<h2 align="center">📃 Github Stats</h2>
 
-##
+<br/>
 
-### Tools 🔧
 <div>
+  
+  <div align="center">
+    <img alt="Rodigues's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GustavoRodrigueess&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="180"/>
+    <img alt="Rodrigues's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRodrigueess&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="180"/>
+    <br/>
+  </div>
+
+<hr/>
+
+<div align="center">
+
+ ### Tools 🔧
+
   <div style="display: inline_block"><br>
 
   
@@ -68,14 +82,9 @@
   <img align="center" alt="Rodriguez-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg">
   <img align="center" alt="Rodriguez-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   
-### Social Media and Contact 📱
+  <hr/>
 
-
-<div> 
-  <a href="https://www.instagram.com/offrodriguezzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rodr1guezfps" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gustavorodrigueslima2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-rodrigues-86289a210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+  <div>
+    <a href="#"><img alt="Rodigues's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GustavoRodrigueess&custom_title=Rodrigues's%20Contribution%20Graph&bg_color=0D1117&color=00B9EC&line=FFFFFF&point=00B9EC&hide_border=true" /></a>
+  <div>
 
