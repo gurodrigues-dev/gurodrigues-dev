@@ -66,7 +66,7 @@
   <img align="center" alt="Rodriguez-Prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg">
   <img align="center" alt="Rodriguez-Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
   <img align="center" alt="Rodriguez-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg">
-  
+  <img align="center" alt="Rodriguez-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   
 ### Social Media and Contact 📱
 
