@@ -17,7 +17,7 @@
   - Cyber Security
   - Linux Admin
   
-- ✍🏻 I'm currently specializing in devops.
+- ✍🏻 I'm currently specializing in devops but I want to become a software engineer.
   > In addition to an intermediate knowledge in Front-End Development
   > Also with great knowledge in Python, developing REST API's with Django and with experience in socket communication in GO
  <br>
