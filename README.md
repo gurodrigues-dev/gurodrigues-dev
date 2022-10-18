@@ -9,17 +9,16 @@
 </p>
   
 
-- 👨‍💻 I’m currently working on GoCache, a technology startup! 
-  > At GoCache I work as Technical Support
-  - Environment Monitoring.
-  - Log Analysis.
-  - CDN (Cache), WAF, Firewall and DNS configuration.
-  - Cyber Security
-  - Linux Admin
+- 👨‍💻 I'm currently working at Travelex Bank!
+  > I'm a Junior Systems Analyst
+  - Robotic Process Automation (RPA)
+  - Backend development with Python
+  - Control and Management of Services with Jenkins
+  - Containerization with Docker
   
 - ✍🏻 I'm currently specializing in devops but I want to become a software engineer.
   > In addition to an intermediate knowledge in Front-End Development
-  > Also with great knowledge in Python, developing REST API's with Django and with experience in socket communication in GO
+  > Also with great knowledge in Python, developing REST API's with Django and with experience in socket communication in GoLang
  <br>
  
 
