@@ -29,8 +29,8 @@
 <div>
   
   <div align="center">
-    <img alt="Rodigues's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GustavoRodrigueess&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="180"/>
-    <img alt="Rodrigues's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRodrigueess&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="180"/>
+    <img alt="Rodigues's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gurodrigues-dev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="180"/>
+    <img alt="Rodrigues's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurodrigues-dev&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="180"/>
     <br/>
   </div>
 
@@ -84,6 +84,6 @@
   <hr/>
 
   <div>
-    <a href="#"><img alt="Rodigues's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GustavoRodrigueess&custom_title=Rodrigues's%20Contribution%20Graph&bg_color=0D1117&color=00B9EC&line=FFFFFF&point=00B9EC&hide_border=true" /></a>
+    <a href="#"><img alt="Rodigues's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gurodrigues-dev&custom_title=Rodrigues's%20Contribution%20Graph&bg_color=0D1117&color=00B9EC&line=FFFFFF&point=00B9EC&hide_border=true" /></a>
   <div>
 
