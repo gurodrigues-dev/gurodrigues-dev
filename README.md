@@ -10,7 +10,7 @@
   
 
 - 👨‍💻 I'm currently working at Travelex Bank!
-  > I'm a Junior Systems Analyst
+  > I'm a Junior Backend Developer
   - Robotic Process Automation (RPA)
   - Backend development with Python
   - Control and Management of Services with Jenkins
