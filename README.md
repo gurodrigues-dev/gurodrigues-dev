@@ -65,7 +65,7 @@
   <img align="center" alt="Rodriguez-Postgree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Rodriguez-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   
- ### DevOps Learning 📈
+ ### Currently Learning Devops 📈
  
 <div>
   <div style="display: inline_block"><br>
