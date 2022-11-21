@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello I'm Gustavo Rodrigues!
+  Hello I'm Gustavo Rodrigues Lima!
 </h1>
 
 <p align="center">   
