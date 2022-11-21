@@ -4,7 +4,7 @@
 
 <p align="center">   
   <a href="mailto:gustavorodrigueslima2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00B9EC"></a>
-  <a href="https://www.linkedin.com/in/gustavo-rodrigues-86289a210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00B9EC"></a> 
+  <a href="https://www.linkedin.com/in/gustavo-rodrigues-lima-86289a210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00B9EC"></a> 
   <a href="https://www.instagram.com/offrodriguezzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00B9EC"></a>
 </p>
   
