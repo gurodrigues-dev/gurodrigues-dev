@@ -82,8 +82,22 @@
   <img align="center" alt="Rodriguez-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   
   <hr/>
+</div>
 
-  <div>
-    <a href="#"><img alt="Rodigues's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gurodrigues-dev&custom_title=Rodrigues's%20Contribution%20Graph&bg_color=0D1117&color=00B9EC&line=FFFFFF&point=00B9EC&hide_border=true" /></a>
-  <div>
+### Certificates 🧾
+
+| Certificate | Issuer | Concluded |
+|--- |--- |--- |
+| Docker | Harnham - London | ✔️ |
+| Jenkins | Ilegra | ✔️ |
+| Redis | André Amaral | ✔️ |
+| Python | Microsoft | ⏲️ |
+| AWS - Cloud Foundations | Amazon | ⏲️ |
+| AWS - Solutions Architect | Amazon | ⏲️ |
+| Terraform | Hashicorp | ❌ |
+| LPIC-1 | Linux | ❌ |
+| Kubernetes | Hashicorp | ❌ |
+| ✔️ - Concluded | ⏲️ - Scheduled Test | ❌ - Studying |
+
+
 
