@@ -92,7 +92,7 @@
 | Jenkins | Ilegra | ✔️ |
 | Redis | André Amaral | ✔️ |
 | Python | Microsoft | ⏲️ |
-| AWS - Cloud Foundations | Amazon | ⏲️ |
+| AWS - Cloud Practitioner | Amazon | ⏲️ |
 | AWS - Solutions Architect | Amazon | ⏲️ |
 | Terraform | Hashicorp | ❌ |
 | LPIC-1 | Linux | ❌ |
