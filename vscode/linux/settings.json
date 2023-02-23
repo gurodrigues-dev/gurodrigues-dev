@@ -1,1 +1,38 @@
-0
+{
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "expand",
+  
+    "material-icon-theme.folders.associations": {
+      "infra": "app",
+      "entities": "class",
+      "schemas": "class",
+      "typeorm": "database",
+      "migrations": "tools",
+      "modules": "components",
+      "implementations": "core",
+      "dtos": "typescript",
+      "fakes": "mock"
+    },
+  
+    "material-icon-theme.files.associations": {
+      "ormconfig.json": "database",
+      "tsconfig.json": "tune"
+    },
+      
+      "workbench.colorTheme": "Catppuccin Mocha",
+      "workbench.iconTheme": "material-icon-theme",
+      "[python]": {
+          "editor.formatOnType": true
+      },
+      "background.windowBackgrounds": [
+          "/home/rodrigues/Downloads/anime-2019040612-laginate.jpg"
+      ],
+      "background.backgroundOpacity": [
+        0.9,
+        0.9,
+        0.9,
+        0.9
+        ],
+      "workbench.productIconTheme": "fluent-icons"
+      
+  }
