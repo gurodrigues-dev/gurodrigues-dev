@@ -1,0 +1,23 @@
+{
+    // default "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "git.autofetch": true,
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "background.editorBackgrounds": [
+        "c:/Users/gulima/Downloads/demon-slayer-kimetsu-no-yaiba-kimetsu-no-yaiba-tanjirou-kamado-hd-wallpaper-preview.jpg"
+    ],
+    "background.backgroundOpacity": [
+        0.9,
+        1,
+        0.9,
+        0.9
+    ],
+    "background.windowBackgrounds": [
+        "c:/Users/gulima/Downloads/demon-slayer-kimetsu-no-yaiba-kimetsu-no-yaiba-tanjirou-kamado-hd-wallpaper-preview.jpg"
+    ]
+}
