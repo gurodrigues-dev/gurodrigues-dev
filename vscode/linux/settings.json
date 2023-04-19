@@ -112,7 +112,23 @@
     "http": "container",
     "providers": "include",
     "factories": "class",
-    "repositories": "mappings"
+    "repositories": "mappings",
+    "aulas":"lib",
+    "banco de dados":"database",
+    "desenvolvimento mobile":"Android",
+    "orientação a objetos":"python",
+    "desenvolvimento web":"node",
+    "linguagem de programação":"functions",
+    "desenvolvimento e operações (devops)":"docker",
+    "desenvolvimento de apis e microserviços":"api",
+    "atividade contínua 1":"apollo",
+    "atividade contínua 2":"apollo",
+    "atividade contínua 3":"apollo",
+    "atividade contínua 4":"apollo",
+    "atividade contínua 5":"apollo",
+    "prova final":"target",
+    "Devops":"app",
+    "Back-End":"src"
   },
   "cSpell.enableFiletypes": [
     "!asciidoc",
@@ -161,7 +177,6 @@
   },
   "tabnine.experimentalAutoImports": true,
   "gitlens.codeLens.enabled": false,
-  "workbench.iconTheme": "material-icon-theme",
   "polacode.transparentBackground": true,
   "polacode.target": "snippet",
   "editor.minimap.enabled": false,
@@ -177,5 +192,6 @@
     "editor.formatOnType": true
   },
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.cursorBlinking": "expand"
+  "editor.cursorBlinking": "expand",
+  "workbench.iconTheme": "material-icon-theme"
 }
