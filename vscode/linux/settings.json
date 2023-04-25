@@ -6,10 +6,6 @@
   "editor.fontSize": 16,
   "javascript.suggest.autoImports": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "editor.rulers": [
-    80,
-    120
-  ],
   "extensions.ignoreRecommendations": true,
   "typescript.tsserver.log": "off",
   "files.associations": {
@@ -66,6 +62,7 @@
   },
   "material-icon-theme.activeIconPack": "nest",
   "editor.suggestSelection": "first",
+  "editor.wordWrap": "on",
   "explorer.confirmDelete": false,
   "gitlens.codeLens.recentChange.enabled": false,
   "terminal.integrated.showExitAlert": false,
@@ -128,7 +125,11 @@
     "atividade contínua 5":"apollo",
     "prova final":"target",
     "Devops":"app",
-    "Back-End":"src"
+    "Back-End":"src",
+    "terraform-test":"terraform",
+    "terraform-learning":"terraform",
+    "terraform-criando-instances":"terraform",
+    "terraform-infra":"terraform"
   },
   "cSpell.enableFiletypes": [
     "!asciidoc",
@@ -163,7 +164,8 @@
   "editor.semanticHighlighting.enabled": false,
   "breadcrumbs.enabled": true,
   "workbench.productIconTheme": "fluent-icons",
-  "editor.fontFamily": "JetBrains Mono",
+  //"editor.fontFamily": "JetBrains Mono",
+  //"editor.fontFamily": "Fira Code",
   "gitlens.codeLens.authors.enabled": false,
   "editor.tabSize": 2,
   "security.workspace.trust.untrustedFiles": "newWindow",
@@ -187,11 +189,11 @@
     "editor.defaultFormatter": "vscode.json-language-features"
   },
   "workbench.editor.untitled.hint": "hidden",
-  "workbench.colorTheme": "Rosé Pine Moon",
   "[python]": {
     "editor.formatOnType": true
   },
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorBlinking": "expand",
-  "workbench.iconTheme": "material-icon-theme"
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Dracula",
 }
