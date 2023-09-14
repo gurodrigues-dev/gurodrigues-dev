@@ -98,11 +98,11 @@
 | Docker | Harnham - London | ✔️ |
 | Jenkins | Ilegra | ✔️ |
 | Redis | André Amaral | ✔️ |
-| Python | Microsoft | ⏲️ |
-| AWS - Cloud Practitioner | Amazon | ⏲️ |
+| Python | Microsoft | ✔️ |
+| AWS - Cloud Practitioner | Amazon | ✔️ |
 | AWS - Solutions Architect | Amazon | ⏲️ |
-| Terraform | Hashicorp | ❌ |
-| LPIC-1 | Linux | ❌ |
+| Terraform | Hashicorp | ⏲️ |
+| LPIC-1 | Linux | ⏲️ |
 | Kubernetes | Hashicorp | ❌ |
 | ✔️ - Concluded | ⏲️ - Scheduled Test | ❌ - Studying |
 
