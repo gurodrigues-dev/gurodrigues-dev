@@ -22,7 +22,6 @@
 
 - ❓ But does that mean you've stopped developing?
   > No, besides studying software, microservices and systems architecture (DevOps). I'm still studying development but totally focused on functional programming with Elixir and I'm learning safe programming concepts with Python, but the focus is on Elixir.
- <br>
  
 - 📃 Certificates
   
