@@ -24,6 +24,9 @@
   > No, besides studying software, microservices and systems architecture (DevOps). I'm still studying development but totally focused on functional programming with Elixir and I'm learning safe programming concepts with Python, but the focus is on Elixir.
  <br>
  
+- 📃 Certificates
+  > I am AWS Certified. I am AWS Certified with the Foundational level. (AWS Cloud Practitioner)
+ <br>
 
 <h2 align="center">📃 Github Stats</h2>
 
