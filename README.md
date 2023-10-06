@@ -25,7 +25,7 @@
  
 - 📃 Certificates
   
-  > I am AWS Certified. I am AWS Certified with the Foundational level. (AWS Cloud Practitioner)
+  > I am AWS Certified with the Foundational level. (AWS Cloud Practitioner)
  <br>
 
 <h2 align="center">📃 Github Stats</h2>
