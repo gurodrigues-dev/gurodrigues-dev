@@ -10,23 +10,43 @@
   
 
 - 👨‍💻 I'm currently working at Travelex Bank!
-  > I'm a Backend Developer
-  - Robotic Process Automation (RPA)
-  - Backend development with Python
-  - Control and Management of Services with Jenkins
-  - Containerization with Docker
+  > I'm a DevOps Engineer
+  - AWS
+  - Terraform
+  - Kubernetes (K8S)
+  - Service Mesh and Cloud
+  - Automations with Go, Python, Node and Java.
   
-- ✍🏻 I'm currently specializing in DevOps
-  > In addition to an intermediate knowledge in Front-End Development
-  > Also with great knowledge in Python, developing REST API's with Django / Flask and with a vast experience in GoLang
+- ✍🏻 The truth is that I am a developer by trade.
+  > However, passionate about software architecture, I study infrastructure, development and networks out of passion.
+  > I want to be a real architect, build giant projects, for gigantic companies and software that will be successful. I LOVE GETTING HANDS ON! ❤️
 
 - ❓ But does that mean you've stopped developing?
-  > No, besides studying software, microservices and systems architecture (DevOps). I'm still studying development but totally focused on functional programming with Elixir and I'm learning safe programming concepts with Python, but the focus is on Elixir.
+  > No, besides studying software, microservices, solid, security and design patterns. I believe that I will soon become a developer again, however, to apply in practice the concepts that I learn a lot today.
  
 - 📃 Certificates
   
   > I am AWS Certified with the Foundational level. (AWS Cloud Practitioner)
+
+<div>
+  
+  <div align="center">
+    <img alt="Rodigues's AWS Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="180"/>
+    <br/>
+  </div>
+
+- 🏆 Championships
+  
+  > Winner of the "Best student at your university" medal in 2023. For being first in the ranking of solutions on the beecrowd platform at Faculdade Impacta de Tecnologia.
+
+<div align="center">
+
+  <img align="center" alt="top1" src="https://i.imgur.com/eYRpAgw.png">
+
+</div>
+
  <br>
+  
 
 <h2 align="center">📃 Github Stats</h2>
 
@@ -37,6 +57,7 @@
   <div align="center">
     <img alt="Rodigues's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gurodrigues-dev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="180"/>
     <img alt="Rodrigues's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurodrigues-dev&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="180"/>
+    <img alt="Rodrigues's Fire" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurodrigues-dev&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="180"/>
     <br/>
   </div>
 
@@ -85,14 +106,6 @@
   <img align="center" alt="Rodriguez-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
   <img align="center" alt="Rodriguez-GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   
- ### Currently Learning Devops & BackEnd 📈
- 
-<div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rodriguez-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  
-  <hr/>
-</div>
 
 ### Certificates 🧾
 
