@@ -10,7 +10,7 @@
   
 
 - 👨‍💻 I'm currently working at Travelex Bank!
-  > I'm a DevOps Engineer
+  > I'm a DevOps / System Engineer
   - AWS
   - Terraform
   - Kubernetes (K8S)
