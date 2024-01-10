@@ -1,0 +1,10 @@
+Host github.com
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_rsa
+
+# Configurações para a outra conta do GitHub
+Host github-dev
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_rsadev
