@@ -26,7 +26,7 @@
  
 - 📃 Certificates
   
-  > I am AWS Certified with the Foundational level. (AWS Cloud Practitioner)
+  > I am AWS Certified with the Foundational level. (AWS Cloud Practitioner) and in Association Level. (AWS Solutions Architect Associtate)
 
 <div>
   
