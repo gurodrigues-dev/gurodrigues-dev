@@ -84,13 +84,9 @@
 <div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rodriguez-Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
-  <img align="center" alt="Rodriguez-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Rodriguez-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rodriguez-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Rodriguez-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rodriguez-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rodriguez-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rodriguez-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rodriguez-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rodriguez-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Rodriguez-Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
   <img align="center" alt="Rodriguez-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg">
@@ -99,9 +95,7 @@
   <img align="center" alt="Rodriguez-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Rodriguez-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
   <img align="center" alt="Rodriguez-Postgree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rodriguez-FastApi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-  <img align="center" alt="Rodriguez-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
-  <img align="center" alt="Rodriguez-Nginx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+  <img align="center" alt="Rodriguez-Nginx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">
   <img align="center" alt="Rodriguez-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Rodriguez-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Rodriguez-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
@@ -110,18 +104,14 @@
 
 ### Certificates 🧾
 
-| Certificate | Issuer | Concluded |
-|--- |--- |--- |
-| Docker | Harnham - London | ✔️ |
-| Jenkins | Ilegra | ✔️ |
-| Redis | André Amaral | ✔️ |
-| Python | Microsoft | ✔️ |
-| AWS - Cloud Practitioner | Amazon | ✔️ |
-| AWS - Solutions Architect | Amazon | ⏲️ |
-| Terraform | Hashicorp | ⏲️ |
-| LPIC-1 | Linux | ⏲️ |
-| Kubernetes | Hashicorp | ❌ |
-| ✔️ - Concluded | ⏲️ - Scheduled Test | ❌ - Studying |
+<div>
+  
+  <div align="center">
+    <img alt="Rodigues's AWS Cloud Practitioner" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="180"/>
+    <img alt="Rodigues's AWS Cloud Practitioner" src="https://www.datocms-assets.com/2885/1645553469-hcta0-badge.png" height="180"/>
+    <img alt="Rodigues's AWS Cloud Practitioner" src="https://infosyte.com/wp-content/uploads/2023/06/LPIC-1-Exam-102-e1687668777485.png" height="180"/>
+    <br/>
+  </div>
 
 
 
