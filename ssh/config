@@ -8,8 +8,3 @@ Host github-dev
   HostName github.com
   User git
   IdentityFile ~/.ssh/id_rsadev
-
-Host github-work
-  Hostname github.com
-  User git
-  IdentityFile ~/.ssh/id_rsadev
