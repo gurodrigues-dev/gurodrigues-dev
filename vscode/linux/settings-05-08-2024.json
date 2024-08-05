@@ -1,0 +1,16 @@
+{
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "expand",
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "CaskaydiaMono Nerd Font",
+    "material-icon-theme.files.associations": {
+        "*.go": "Go_gopher",
+        "*.yaml": "Coala",
+        "*.yml": "Coala"
+    },
+    "material-icon-theme.folders.associations": {
+        "repository": "database",
+        "controller": "context"
+    }
+}
