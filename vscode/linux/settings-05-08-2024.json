@@ -12,5 +12,39 @@
     "material-icon-theme.folders.associations": {
         "repository": "database",
         "controller": "context"
+    },
+    "editor.guides.bracketPairs": "active",
+    "vim.normalModeKeyBindings": [
+        {
+            "before": ["<C-f>"],
+            "after": ["/"]
+        },
+        {
+            "before": ["<C-a>"],
+            "after": ["g", "g", "V", "G"]
+        },
+        {
+            "before": ["<C-q>"],
+            "after": [":", "t","a","b","c","l","o","s","e"]
+        }
+    ],
+    "vim.statusBarColorControl": true,
+    "vim.statusBarColors.normal": ["#554477", "#FFFFFF"],
+    "vim.statusBarColors.insert": "#028800",
+    "vim.statusBarColors.visual": "#B48EAD",
+    "vim.statusBarColors.visualline": "#B48EAD",
+    "vim.statusBarColors.visualblock": "#A3BE8C",
+    "vim.statusBarColors.replace": "#D08770",
+    "vim.statusBarColors.commandlineinprogress": "#007ACC",
+    "vim.statusBarColors.searchinprogressmode": "#007ACC",
+    "vim.statusBarColors.easymotionmode": "#007ACC",
+    "vim.statusBarColors.easymotioninputmode": "#007ACC",
+    "vim.statusBarColors.surroundinputmode": "#007ACC",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#028800",
+        "statusBar.noFolderBackground": "#028800",
+        "statusBar.debuggingBackground": "#028800",
+        "statusBar.foreground": "#FFFFFF",
+        "statusBar.debuggingForeground": "#FFFFFF"
     }
 }
