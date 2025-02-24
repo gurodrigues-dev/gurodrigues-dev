@@ -1,0 +1,239 @@
+{
+    "go.buildTags": "duckdb",
+    "editor.wordWrap": "off",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "expand",
+    "workbench.iconTheme": "material-icon-theme",
+    // "editor.fontFamily": "CaskaydiaMono Nerd Font",
+    "editor.fontFamily": "Jetbrains Mono",
+    // "editor.fontFamily": "./~ssh",
+    "material-icon-theme.files.associations": {
+        "*.go": "Go_gopher",
+        "*.yaml": "Coala",
+        "*.yml": "Coala"
+    },
+    "material-icon-theme.folders.associations": {
+        "repository": "database",
+        "migrations": "database",
+        "controller": "context",
+        "internal": "core",
+        "gateway": "app",
+        "use_case": "store",
+        "usecase": "store",
+        "entity": "admin",
+        "consumers": "serverless"
+    },
+    "editor.guides.bracketPairs": "active",
+    "vim.normalModeKeyBindings": [
+        {
+            "before": ["<C-f>"],
+            "after": ["/"]
+        },
+        {
+            "before": ["<C-a>"],
+            "after": ["g", "g", "V", "G"]
+        },
+        {
+            "before": ["<C-q>"],
+            "after": [":", "t","a","b","c","l","o","s","e"]
+        }
+    ],
+    "vim.statusBarColorControl": true,
+    "vim.statusBarColors.normal": ["#554477", "#FFFFFF"],
+    "vim.statusBarColors.insert": "#028800",
+    "vim.statusBarColors.visual": "#B48EAD",
+    "vim.statusBarColors.visualline": "#B48EAD",
+    "vim.statusBarColors.visualblock": "#A3BE8C",
+    "vim.statusBarColors.replace": "#D08770",
+    "vim.statusBarColors.commandlineinprogress": "#007ACC",
+    "vim.statusBarColors.searchinprogressmode": "#007ACC",
+    "vim.statusBarColors.easymotionmode": "#007ACC",
+    "vim.statusBarColors.easymotioninputmode": "#007ACC",
+    "vim.statusBarColors.surroundinputmode": "#007ACC",
+    // "workbench.colorCustomizations": {
+    //     "statusBar.background": "#554477",
+    //     "statusBar.noFolderBackground": "#554477",
+    //     "statusBar.debuggingBackground": "#554477",
+    //     "statusBar.foreground": "#FFFFFF",
+    //     "statusBar.debuggingForeground": "#FFFFFF"
+    // },
+    // #636d83
+    "go.toolsManagement.autoUpdate": true,
+    "editor.minimap.size": "fill",
+    "go.lintTool": "golangci-lint",
+    "go.lintFlags": [
+        "--fast"
+    ],
+    "go.lintOnSave": "file",
+    "go.lintOnTyping": true,
+    "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            // {
+            //     "scope": "source.go",
+            //     "settings": {
+            //         "foreground": "#ffffff" // Cor para nomes de funções
+            //     }
+            // },
+            // {
+            //     "scope": "source.go",
+            //     "settings": {
+            //         "foreground": "#ffffff" // Cor para nomes de funções
+            //     }
+            // },
+            // {
+            //     "scope": "entity.name.type",
+            //     "settings": {
+            //         "foreground": "#50fa7b" // Cor para tipos de entidades
+            //     }
+            // },
+            // {
+            //     "scope": "entity.name.selector.go",
+            //     "settings": {
+            //         "foreground": "#ff0000" // Cor para tipos de entidades
+            //     }
+            // },
+            // {
+            //     "scope": "variable.other.go",
+            //     "settings": {
+            //         "foreground": "#8be9fd" // Cor para variáveis
+            //     }
+            // },
+            // {
+            //     "scope": "support.type.go",
+            //     "settings": {
+            //         "foreground": "#8be9fd" // Cor para tipos de suporte
+            //     }
+            // },
+            // {
+            //     "scope": "entity.name.function.go",
+            //     "settings": {
+            //         "foreground": "#DCDCAA" // Cor para nomes de funções
+            //     }
+            // },
+            // {
+            //     "scope": "keyword.go",
+            //     "settings": {
+            //         "foreground": "#C586C0" // Cor para palavras-chave
+            //     }
+            // },
+            // {
+            //     "scope": "keyword.control.go",
+            //     "settings": {
+            //         "foreground": "#ff1500" // Cor para palavras-chave
+            //     }
+            // }
+        ]
+    },
+    "workbench.activityBar.location": "hidden",
+    "workbench.editor.showTabs": "single",
+    "workbench.statusBar.visible":false,
+    "workbench.startupEditor": "none",
+    "workbench.tips.enabled": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.sideBar.location": "right",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.tree.indent": 16,
+    "explorer.compactFolders": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "search.decorations.badges": false,
+    "window.zoomLevel": 1.5,
+    "window.customTitleBarVisibility": "never",
+    "window.titleBarStyle": "native",
+    "custom-ui-style.electron": {
+        "titleBarStyle": "hidden",
+        "trafficLightPosition": {
+            "x": 20,
+            "y": 16
+        }
+    },
+    "custom-ui-style.stylesheet": {
+        ".notification-toast": "box-shadow: none !important",
+        ".quick-input-widget.show-file-icons": "box-shadow: none !important",
+        ".quick-input-widget": "top: 25vh !important",
+        ".quick-input-list .scrollbar": "display: none",
+        ".monaco-action-bar.quick-input-inline-action-bar": "display: none",
+        ".editor-widget.find-widget": "box-shadow: none; border-radius: 4px",
+        ".quick-input-titlebar": "background: #100B15 !important",
+        ".monaco-workbench .part.editor > .content .editor-group-container > .title.title-border-bottom:after": "display: none",
+        ".monaco-scrollable-element > .shadow.top": "display: none",
+        ".sidebar .title-label": "padding: 0 !important",
+        ".sidebar": "border: none !important",
+        ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "outline: none !important",
+        ".monaco-list-row.focused": "outline: none !important",
+        ".monaco-editor .scroll-decoration": "display: none",
+        ".title-actions": "display: none !important",
+        ".title.show-file-icons .label-container .monaco-icon-label.file-icon": "justify-content: center; padding: 0 !important",
+        ".title .monaco-icon-label:after": "margin-right: 0",
+        ".monaco-workbench .part.editor > .content .editor-group-container > .title > .label-container > .title-label": "padding-left: 60px",
+        ".title .monaco-icon-label.file-icon": "margin: 0 60px",
+        ".monaco-editor .cursors-layer .cursor": "background-image: linear-gradient(135deg, #ffaffc 10%, #DA70D6 100%)"
+    },
+    "custom-ui-style.font.sansSerif": "Jetbrains Mono",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.colorCustomizations": {
+        "editorCursor.background": "#000000",
+        "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
+        "editorOverviewRuler.selectionHighlightForeground": "#0000",
+        "editorOverviewRuler.rangeHighlightForeground": "#0000",
+        "editorOverviewRuler.wordHighlightForeground": "#0000",
+        "editorOverviewRuler.bracketMatchForeground": "#0000",
+        "editorOverviewRuler.findMatchForeground": "#0000",
+        "editorOverviewRuler.modifiedForeground": "#0000",
+        "editorOverviewRuler.deletedForeground": "#0000",
+        "editorOverviewRuler.warningForeground": "#0000",
+        "editorOverviewRuler.addedForeground": "#0000",
+        "editorOverviewRuler.errorForeground": "#0000",
+        "editorOverviewRuler.infoForeground": "#0000",
+        "editorOverviewRuler.border": "#0000",
+        "[Aura Dracula Spirit (Soft)]": {
+        "editorSuggestWidget.selectedBackground": "#3A334B",
+        "sideBar.background": "#191521"
+        }
+    },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+          {
+            "scope": "comment",
+            "settings": {
+              "fontStyle": "italic"
+            }
+          }
+        ]
+    },
+    "editor.stickyScroll.enabled": false,
+    "editor.colorDecorators": false,
+    "editor.codeLens": false,
+    "editor.links": false,
+    "editor.matchBrackets": "never",
+    "editor.parameterHints.enabled": false,
+    "editor.lightbulb.enabled": "off",
+    "editor.hover.enabled": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "scm.diffDecorations": "none",
+    "editor.lineNumbers": "relative",
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.showFoldingControls": "never",
+    "editor.guides.indentation": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderLineHighlight": "none",
+    "editor.occurrencesHighlight": "off",
+    "editor.selectionHighlight": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.tabCompletion": "on",
+    "editor.snippetSuggestions": "top",
+    "emmet.triggerExpansionOnTab": true,
+    "files.autoSave": "afterDelay",
+    "update.mode": "none",
+    "extensions.ignoreRecommendations": true
+}
